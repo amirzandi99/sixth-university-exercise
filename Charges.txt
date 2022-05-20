@@ -1,0 +1,6 @@
+Charges for 10/2009
+Charge
+Customer Hours used per hour Average cost
+	15362	4.2		7.99	1.99	
+	42768	11.1	22.089	11.1	
+	11111	9.9		7.99	1.99	
